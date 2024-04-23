@@ -5,22 +5,70 @@ public class Samira02 {
 	public static void main(String[] args) {
 		// Class_28_Task 01_Concatenate and print
 		
+		// 1.int+int+int
 		int a=2;
 		int b=3;
 		int c=4;
-		float f=1.2f;
-		double l=1.3d;
-		String g="hello world";
-		
 		System.out.println(a+b+c);
-		System.out.println(a+g+b);
-		System.out.println(f+l+a);
-		System.out.println(g+f+a);
-		System.out.println(f+a+g);
-		System.out.println("f"+a+f+l);
-		System.out.println(g+a+l+g);
-		System.out.println(g+a+g+l);
-		System.out.println(a+b+g+(a+b+c));
+		
+		 //2.int+string+int
+		
+		int sam=12;
+		String name="hi dear";
+		int sam1=3;
+         System.out.println(sam+name+sam1);
+         
+         //3.float+double+int
+         float samira=6.6f;
+         double inch=66.66d;
+         int kamila=3;
+         System.out.println(samira+inch+kamila);
+         
+         //4.string+float+int
+         
+         String life="life is feautiful";
+         float hight=1.3f;
+         int weight=50;
+         System.out.println(life+hight+weight);
+         
+         //5.float+int+string
+         
+         float tall=3.5f;
+         int lili=6;
+         String school="learning is the key of success";
+         System.out.println(tall+lili+school);
+         
+         //6.print float+int+float+double
+         
+         float code=2.2f;
+         int book=23;
+         double point=10.22;
+         System.out.println(code+book+code+point);
+         
+         //7.string+int+double+string
+         
+         String classe="hi everybody";
+         int room=50;
+         double k1=22.22d;
+         String health="health is life";
+         System.out.println(classe+room+k1+health);
+         
+         //8.string+int+string+double
+         
+         String money="I have 50 $";
+         int tv=12;
+         String wealth="money";
+         double house=17.80d;
+         System.out.println(money+tv+wealth+house);
+         
+         
+         
+         
+         
+         
+         
+         
+         
          
 		    //Class 29_30_Task_02_Calculate Average
 		int math=60;
