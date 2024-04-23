@@ -44,4 +44,5 @@ int [] riyu = new int [10];
 	}
 
 }
+	
 }
