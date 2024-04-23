@@ -28,8 +28,11 @@ public class Class_3_Task_3_Array {
 		System.out.println("The value of string : "+ Rain[i]);
 	}
 // Print all the value from 5th to 2nd index--
-	for (int i=4;i>=2;i--) {
+	for (int i=4;i>=1;i--) {
 		System.out.println("The value of string "+ Rain[i]);
 	}
-}
+
+
+
+	}
 }
