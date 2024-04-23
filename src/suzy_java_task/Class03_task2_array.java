@@ -5,16 +5,21 @@ public class Class03_task2_array {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 //Array task 2--
+		
 		int blue[]=new int [11];
 		 blue[0]=5;
 		 blue[2]=6;
 		 blue[5]=8;
-//		 find out the length of array--
+		 
+//		 find out the length of array  --
 		 System.out.println(blue.length);
+		 
+		 
+//		 print all the value with for each  loop --
 		 for(int a=0;a<=blue.length-1;a++ ) {
 			 System.out.println("array value "+blue[a] );
 			 }
-//			 print the value of index number 3 and index number 5 individually--
+//			 print the value of index number 3 and index number 6 individually--
 			 System.out.println(blue[2]);
 			 System.out.println(blue[4]);
 			 
