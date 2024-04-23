@@ -29,6 +29,38 @@ public class Class_3_task_6_Object_Array {
 		    for (int i=4;i>=1;i--) {
 		     System.out.println("The value of Index:" + sky[i]) ;
 		    }
+// Create 10 boxes of Array --
+		  int ros[]=new int [10];
+//input 3 box variable--
+		  ros[0]=10;
+		  ros[4]=15;
+		  ros[8]=20;
+//Print the value of index 5
+	   System.out.println("The value of index 5: "+ros[4]);
+//Print the length of array--
+	   System.out.println("The length of array: "+ ros.length );
+//Print all boxes of value with "For loop"--
+	   for(int i=0;i<=ros.length-1;i++) {
+			 System.out.println("Each Index value: "+ros[i]);
 	}
-	
+//Create 3 boxed array--
+	  int lily []=new int [3];
+	    lily[0]=3;
+	    lily[2]=6;
+	System.out.println("The length of array: "+lily.length);
+//Print all boxes of value with "For loop"--
+	   for(int i=0;i<=lily.length-1;i++) {
+			 System.out.println("Each Index value: "+lily[i]);	
+	   }
+//Create 7 box of array with long name --
+	   int crystal []= new int [7];
+	       crystal[3]=4;
+	       crystal[5]=8;
+	       crystal[6]=10;
+	 System.out.println("The length of array: "+crystal.length);
+//Print all boxes of value with "For loop"--
+	     	   for(int i=0;i<=crystal.length-1;i++) {
+	     			 System.out.println("Each Index value: "+crystal[i]);       
+	}
+}
 }
