@@ -81,7 +81,7 @@ public class Task1_array_with_Index {
 			 
 			 
 			   
-			  int number[]=new int[10];
+			/*  int number[]=new int[10];
 			 
 		       int len = number.length;  //length of array
 		       System.out.println(len);
@@ -93,10 +93,55 @@ public class Task1_array_with_Index {
 				 System.out.println("print the reverse value  " + (x) );
 			 }
 				 
-			 }
+			 }*/
 		
+		  // Find out the length of the array and Print all the value from 5th Index to 8th index.  
+		
+		/* int score [] = new int[10];
+		
+		score[0]=1;
+		score[1]=2;
+		score[2]=3;
+		score[3]=4;
+		score[4]=5;
+		score[5]=6;
+		score[6]=7;
+		score[7]=8;
+		score[8]=9;
+	    score[9]=6;
+	    
+	    for (int x=4; x<=8; x++) {
+	    	
+	    	System.out.println(score[x]);
+	    }
+		
+		
+		
+	}}*/
+		
+	
+      // Find out the length of the array and Print all the value from 8th Index to 4th index.
 
+      /*  int number [] = new int[10];
+          
+          number[0]=3;
+          number[1]=5;
+          number[2]=5;
+          number[3]=0;
+          number[4]=6;
+          number[5]=8;
+          number[6]=4;
+          number[7]=9;
+          number[8]=0;
+  
+          for(int x=7; x>=3; x--) {
+        	  System.out.println(number[x]);
+        	
+          }
+          System.out.println("length of array is: " +number.length); 	  
+              }  
+        	
+          
+	} */
 
-	}
-
-
+  
