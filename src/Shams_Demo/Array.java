@@ -32,8 +32,8 @@ public class Array {
 	
         }	
         //03.print out the value of index 5 and 7.
-        System.out.println(sam[5]);
-        System.out.println(sam[7]);
+        System.out.println(sam[4]);
+        System.out.println(sam[6]);
         //04.Find out the length of array and print out the values from last index to the first index(reverse order).
         System.out.println(sam.length);
         System.out.println(sam.length-1);
@@ -70,8 +70,8 @@ public class Array {
         	 System.out.println(box);
          }
         //02.print the value of index number 3 and 5 individually.
-         System.out.println(sys[3]);
-        System.out.println(sys[5]);
+         System.out.println(sys[2]);
+        System.out.println(sys[4]);
         //03.find the length of Array and print out the values of 1st index and last index.
         System.out.println(sys.length);
         for(int xx=0; xx<=sys.length-1; xx++) {
@@ -101,7 +101,7 @@ public class Array {
         for(int box=0; box<=tv.length-1;box++) {
          System.out.println(tv[box]);
          }
-        //04.print all the values from last index to the first index by revirse.
+        //04.print all the values from last index to the first index by reverse.
         for( int box=tv.length-1;box>=0;box--) {
         	System.out.println(tv[box]);
         }
