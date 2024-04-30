@@ -15,6 +15,7 @@ public class Class_04_Methods_In_Java_MWA_NRT {
 			int y =20;
 			System.out.println(x+y);
 		}
+	
 	    public static void subtraction () {
 	    	int a=10;
 	    	int b=5;
