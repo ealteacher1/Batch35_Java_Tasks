@@ -28,10 +28,10 @@ public class Array_task1 {
 		for (int x=vegies.length-1; x>0; x--) {
 			System.out.println("the value of x="+x);
 			for( int i=5; i<=8;i++) {
-			System.out.println(" the value of index i="+i);
+			System.out.println(" the value of index i="+vegies[i]);
 			
-			 for (int a=8;a>4;a--) {
-				 System.out.println("the value of index i="+ vegies[i]);
+			 for (int a=8;a>=4;a--) {
+				 System.out.println("the value of index a="+ vegies[a]);
 			 }
 			
 			
