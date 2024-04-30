@@ -31,7 +31,7 @@ public class Array_task1 {
 			System.out.println(" the value of index i="+i);
 			
 			 for (int a=8;a>4;a--) {
-				 System.out.println("the value of index i="+i);
+				 System.out.println("the value of index i="+ vegies[i]);
 			 }
 			
 			
