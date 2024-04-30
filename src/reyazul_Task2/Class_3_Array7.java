@@ -8,6 +8,7 @@ public class Class_3_Array7 {
         happy [0][0]=20;
         happy [2][2]=30;
         
+        
 //Print all the value with "For loop"--
         for (int r=0;r<=happy.length-1;r++) {
 
