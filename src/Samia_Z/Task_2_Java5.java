@@ -31,15 +31,16 @@ public class Task_2_Java5 {
 		  int difference =O-I;
 		  System.out.println(("int Method-Sum:"+ sum +",Difference:"+difference);
 }
+	  
   booleanMethod(boolean first,boolean method second){
 	  if (first && second) {
 		  System.out.println("Boolean method :one of them is true");
 	  }else {
-		  System.out.println("Boolean method : Both are false"):
+		  System.out.println("Boolean method : Both are false");
 	  }
-  }
-  }
   }
   
-	  }
-  }
+  
+  
+	
+  
