@@ -12,10 +12,12 @@ for(Object value:ObjectArray) {
 	System.out.println(value);
 }
 for(int x=0; x<ObjectArray.length;x++) {
+	System.out.println("the value of x is " +ObjectArray[x]);
+}
 	System.out.println(ObjectArray[2]);
 	System.out.println(ObjectArray[3]);
-	for(int m=0;m>ObjectArray.length-1;m--) {
-		System.out.println(ObjectArray[m]);
+	for(int m=ObjectArray.length-1;m>=0;m--) {
+		System.out.println("m is " +ObjectArray[m]);
 			}
 	for(int b=5 ;b>=8;b++) {
 		System.out.println(ObjectArray[b]);
@@ -25,6 +27,6 @@ for(int x=0; x<ObjectArray.length;x++) {
 		System.out.println(ObjectArray[p]);
 	}
 }
-	}
+	
 
 }
