@@ -3,7 +3,7 @@ package Tahsin_Class_34and35_Tasks5to7;
 public class Class_D {
 
 	public static void main(String[] args) {
-		// Non-Static Method
+		// Calling Non-Static Method
 		Class_D CallingFromD1 = new Class_D();
 		CallingFromD1.methodD1();
 		Class_D CallingFromD2 = new Class_D(2);
