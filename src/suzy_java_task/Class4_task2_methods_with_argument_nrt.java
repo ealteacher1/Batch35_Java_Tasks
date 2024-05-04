@@ -18,6 +18,7 @@ public class Class4_task2_methods_with_argument_nrt {
 	public static void string (String joy, String love) {
 		System.out.println(joy+love);
 	}
+	
 //	 char
 		public static void life(char moon) {
 			System.out.println("the sky is beautiful "+moon);

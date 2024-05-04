@@ -1,6 +1,6 @@
 package suzy_java_task;
 
-public class Class4_methods_without_arguments_nrt {
+public class Class4_task1_methods_without_arguments_nrt {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
