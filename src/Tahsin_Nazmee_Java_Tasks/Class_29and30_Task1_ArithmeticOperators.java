@@ -4,7 +4,8 @@ public class Class_29and30_Task1_ArithmeticOperators {
 
 	public static void main(String[] args) {
 		// Arithmetic Operators (+, -, *, /, %)
-		// Assigning int 
+		// Task 1: Practice and print each operators 5 times
+		// Assigning Integers
 		int a = 6000;
 		int j = 60;		
 		
