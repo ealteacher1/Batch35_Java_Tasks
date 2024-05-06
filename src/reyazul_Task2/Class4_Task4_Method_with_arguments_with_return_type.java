@@ -121,6 +121,7 @@ public class Class4_Task4_Method_with_arguments_with_return_type {
 		int r8[] = new int[4];
 		return r8;
 	}
+	
 }
 
 
