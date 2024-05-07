@@ -1,6 +1,6 @@
 package Samia_Z;
 
-public class Task_2_Java5 {
+public class Task_3_Java5 {
 
 	public static void main(String[] args) {
 		
