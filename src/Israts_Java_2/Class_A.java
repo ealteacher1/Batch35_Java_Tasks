@@ -25,10 +25,6 @@ public class Class_A {
 		
 	}
 	
-	
-	//for (int k:c5.abc()) {
-			//System.out.println("The retuning value of k : "+ k);
-		 //}
 	 for (Object kk[]:c5.hello()) {
 		 for (Object kkk:kk) {
 			 System.out.println("The retuning value of kkk : "+ kkk);
