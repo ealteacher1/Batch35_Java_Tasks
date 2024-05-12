@@ -16,4 +16,13 @@ public class Lasttask {
 		int profit1=x+y;
 		return profit1;
 	}
+	public void method1() {
+		System.out.println("methoda");
+	}
+	public void method2() {
+		System.out.println("methodb");
+	}
+	public void method3() {
+		System.out.println("method3");
+	}
 }
