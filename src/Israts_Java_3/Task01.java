@@ -40,7 +40,5 @@ public class Task01 {
     	System.out.println(fifth);
     	
     }
-    public void ex5() {
-		System.out.println("Fifth Example");
-}
+    
 }
