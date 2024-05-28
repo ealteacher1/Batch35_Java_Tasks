@@ -18,11 +18,8 @@ public class Class_B {
 		e1.a2();
 		Class_A e3 = new Class_A ();
 		e3.s2();
-		System.out.println("print ");
-		
-		
+			
 	//CALLING PRIVATE METHOD WITH RETURN TYPE FROM Class_A..
-		//Class_A e4 = new Class_A () ;
 		e3.si();
 	}
 
