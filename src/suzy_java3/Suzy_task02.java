@@ -30,15 +30,6 @@ public class Suzy_task02 {
 	Suzy_task02 constructor9 = new Suzy_task02 (12,12,"man",12);
 	Suzy_task02 constructor10 = new Suzy_task02 ("life","day");
 
-
-
-
-
-
-	
-	
-	
-	
 	}
 	
 	
