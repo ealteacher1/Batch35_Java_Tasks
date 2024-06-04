@@ -9,21 +9,21 @@ public class Class_B {
 //	Calling private  methods from class A --
 		
 		
-		Class_A ob = new Class_A() ;
+		ClassA ob = new ClassA() ;
 		ob.lifetime();
 		
-		Class_A ob1 = new Class_A ();
+		ClassA ob1 = new ClassA ();
 		ob.weekdays() ;
 		
-		Class_A ob2= new Class_A ();
+		ClassA ob2= new ClassA ();
 		ob2.sun();
 		
 		
 //		calling private methods with input arguments from class A --
-		Class_A ob3 =new Class_A ();
+		ClassA ob3 =new ClassA ();
 		ob3.boy();
 		
-		Class_A ob4 =new Class_A ();
+		ClassA ob4 =new ClassA ();
 		ob4.bus();
 		
 
