@@ -25,6 +25,12 @@ System.out.println(goodhealth);
     		 for(String []  X :kind ) {
     			 for(String y: X) {
     			 System.out.println(y);
+    			 Object[][]fun=adventure();
+    			 for(Object[] s : fun) {
+    				 for(Object t : s) {
+    					 System.out.println(t);
+    				 }
+    			 }
     		 }
     		  
     	  }
@@ -111,12 +117,16 @@ String food [][]= {{"joyful","emily," ,"remy" },{"day","night","nice"}};
 return food ;
 }
 	
+
+//CREATE 2 OBJECT DIM ARRAY 
+public static Object [][]adventure(){
+	Object beach[][]= {{"sad","why","not"},{"sun","light","rainbow"}};
+	return beach ;
 }
 		
 		
 		
-		
-		
+}	
 		
 		
 	

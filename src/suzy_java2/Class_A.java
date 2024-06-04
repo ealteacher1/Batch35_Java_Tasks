@@ -21,10 +21,12 @@ public class Class_A {
 				
 			date.day();
 			
+			
 //	calling class _A from c --	
 			class_c saturday =new class_c ();
 			saturday.CallinFromC ();
 			System.out.println(saturday.CallinFromC ());
+			
 	}
 //	create 3 non static method using public ,PROTECTED,private ,default --
 			
