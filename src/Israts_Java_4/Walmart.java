@@ -8,7 +8,7 @@ public class Walmart extends Shein {
 	}
 	
 	public void J () {
-		System.out.println(" Walmart ,Whole Food ,Costco is the best places to get groceries");
+		System.out.println("Walmart ,Whole Food ,Costco is the best places to get groceries");
 	}
 
 }

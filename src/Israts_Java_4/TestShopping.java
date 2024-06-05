@@ -21,11 +21,8 @@ public class TestShopping extends Walmart {
 	
 	}
 	
-	
-	
-		
-		public void K () {
-		System.out.println("Test Shopping For All Child ");
+	public void K () {
+    System.out.println("Test Shopping For All Child ");
 	}
 
 }
