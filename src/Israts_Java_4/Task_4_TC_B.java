@@ -17,6 +17,9 @@ public class Task_4_TC_B extends Task_4_TC_A {  // CHILD /PARENT
 	public void F() {
 		System.out.println("Calling F from TC_B"); 
 	}
+	public void C() {
+		System.out.println("Calling C from TC_B as Overridden method ");
+	}
 	
 	// CONSTRUCTOR 
 	

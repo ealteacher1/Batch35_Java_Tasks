@@ -20,7 +20,9 @@ public class Task_4_TC_A {  // GRAND PARENT
 	public void C() {
 		System.out.println("Calling C from TC_A");
 	}
-	
+	public void C1() {
+		System.out.println("Calling C1 from TC_A");
+	}
 	//CONSTRUCTOR 
 	
 	Task_4_TC_A () {

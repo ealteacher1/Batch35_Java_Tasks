@@ -6,8 +6,6 @@ public class Test_ABC {
         
 		Task_4_TC_C test= new Task_4_TC_C ();
 		
-         
-		//DYNAMIC POLYMORPHISM 
 		
 		test.A();  // from Task_4_TC_C
 		test.B();  // from Task_4_TC_A
@@ -25,9 +23,14 @@ public class Test_ABC {
 		// TOP CASTING REFRERING GRANDPARENT CLASS 
 		
 		Task_4_TC_A proving = new Task_4_TC_C ();
+		
+		// DYNAMIC/RUNTIME POLYMORPHISM
+		
 		proving.A();
 		proving.B();
 		proving.C();
+		proving.C1();  
+		
 		
 		
 		
