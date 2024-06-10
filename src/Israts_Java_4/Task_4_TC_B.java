@@ -1,8 +1,8 @@
 package Israts_Java_4;
 
-public class Task_4_TC_B extends Task_4_TC_A {
+public class Task_4_TC_B extends Task_4_TC_A {  // CHILD /PARENT 
 
-	public static void main(String[] args) {  // CHILD /PARENT 
+	public static void main(String[] args) {  
 		Task_4_TC_B b = new Task_4_TC_B (); // CALLING CONSTRUCTOR 
 	}
      
