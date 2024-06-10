@@ -6,7 +6,7 @@ public class Task_5_Downcasting {
 		
 		// DOWN CASTING AND CONVERTING THE OBJECT
 		
-		/*Task_5_C3 downcasting =(Task_5_C3)new Task_5_C4 ();
+		Task_5_C3 downcasting =(Task_5_C3)new Task_5_C4 ();
 		downcasting.CC();
 		downcasting.G();
 		downcasting.H();
@@ -41,7 +41,7 @@ public class Task_5_Downcasting {
 		downcasting2.I();
 		downcasting2.J();
 		downcasting2.K();
-		downcasting2.L();*/
+		downcasting2.L();
 		
 		
 		// TOPCASTING AND CONVERTING THE OBJECT
