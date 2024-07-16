@@ -1,6 +1,6 @@
      package tasks_shaheena;
 
-     //Java-6_Task_3. Dynamic Polymorphism.(Compiler will say, methodis coming from one Class, But in real it will come from another Class
+     //Java-6_Task_3. Dynamic Polymorphism.(Compiler will say, method is coming from one Class, But in real it will come from another Class
 
      public class Test_Fruits{
 
