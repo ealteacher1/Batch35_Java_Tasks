@@ -1,15 +1,15 @@
 package tasks_shaheena;
 
 
-      //Create 2 Class and Prove Constructor is Called from Both Classes while TopCasting is Executed.
+     //java_6_4_part_1 : Create 2 Class and Prove Constructor is Called from Both Classes while TopCasting is Executed.
 
      //child class extends to parent class 
       public class ITEngineer extends Employee1{
 
 	  public static void main(String[] args) {
 	 
-	 //assigning a child class object to parent class reference ,did top casting here
-		Employee1 emp = new ITEngineer();  //assigning a child class object to parent class reference ,did top casting here
+	 //assigning a child class object to parent class reference, did top casting here
+		Employee1 emp = new ITEngineer(); 
 		emp.m1();
 		emp.m2();
 
